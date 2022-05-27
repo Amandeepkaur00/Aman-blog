@@ -275,6 +275,26 @@ It helps you to effectively manage administration and allows you to focus on wha
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 9-Mar-2022** 
+<h3 align='center'>Creating doctypes in mentor-mentee app</h3>
+- Today, we have created a doctype named Mentee for mentee's information.
+- In this, we entered mentees and their details.
+- Also add their mentors under each mentee.
+  
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 10-Mar-2022** 
+<h3 align='center'>Creating doctypes in mentor-mentee app</h3>
+- Today, we have created a doctype named Relation for mentor and mentee relation.
+- In this, we entered mentees and their mentor details.
+  
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
 
 
 
