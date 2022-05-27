@@ -183,9 +183,8 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 22-Feb-2022** 
-<h3 align='center'>Add new user in ubuntu</h3>
-- Add new user in ubuntu.
-- trying to give access of database to other user.
+<h3 align='center'>Working on ERPNEXT</h3>
+- Today i started working on new platform erpnext it is open source, and low code or no platform.Today i am reading the documentation of erpnext to  understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.
 
 <br>
 
@@ -207,9 +206,8 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-Feb-2022** 
-<h3 align='center'>Import Data in Mysql</h3>
-- Try to import data in MariaDB through csv file.
-- Learning the concept of permission on Server.
+<h3 align='center'>Learning different modules of education domain</h3>
+- I am learning about the modules of education domain. It has so many different modules like attendance module, assessment module, course scheduling, HR, settings, admission etc.
 
 <br>
 
@@ -239,3 +237,46 @@ It helps you to effectively manage administration and allows you to focus on wha
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 4-Mar-2022**
+<h3 align='center'>Meeting app</h3>
+- Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of erpnext.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 5-Mar-2022** 
+<h3 align='center'>Notice Board app</h3>
+- Today we all created a notice board app in erpneext within 30 minutes. It was a wonderful experience as we can created such apps withiin a short time period.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 6-Mar-2022**
+<h3 align='center'>Basic setup for Nankana Sahib Public school</h3>
+- Today I am done with the basic setup of Nankana Sahib Public School. I have created three programs Class 1, Class 2, Class 3 and three instructors for each class , four courses for each class, and 2-2 topics per courses, three room and other basic requirements. I have imported data of 8 students using the data import feature in erpnext and also tried to update the existing record which is working fine without any issue.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 7-Mar-2022** 
+<h3 align='center'>Started working on Mentor-mentee app</h3>
+- Today, I and Sehjal started working on mentor-mentee app. In this, we need to create a list of mentors, a list of their mentees and their relation.
+  The requiremnet is to create metors and get their mentees just by clicking on the mentor name. And when we click on any mentee's name it will show all its details.
+  
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 8-Mar-2022** 
+<h3 align='center'>Creating doctypes in mentor-mentee app</h3>
+- Today, we have created a doctype named Mentor for mentor's information.
+- In this, we entered mentors and their details.
+- Also add their mentees under each mentor.
+  
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
