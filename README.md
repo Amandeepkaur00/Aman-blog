@@ -277,14 +277,14 @@ It helps you to effectively manage administration and allows you to focus on wha
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 9-Mar-2022** 
 <h3 align='center'>Creating doctypes in mentor-mentee app</h3>
-- Today, we have created a doctype named Mentee for mentee's information.
+- We have created a doctype named Mentee for mentee's information.
 - In this, we entered mentees and their details.
 - Also add their mentors under each mentee.
   
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 10-Mar-2022** 
+**Date : 11-Mar-2022** 
 <h3 align='center'>Creating doctypes in mentor-mentee app</h3>
 - Today, we have created a doctype named Relation for mentor and mentee relation.
 - In this, we entered mentees and their mentor details.
@@ -292,6 +292,48 @@ It helps you to effectively manage administration and allows you to focus on wha
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-Mar-2022** 
+<h3 align='center'>Web-page for mentor-mentee app</h3>
+- After creating doctypes for mentor-mentee app, now we have created a web-page.
+- We need to show mentors and mentees list in web-page and get their information just by clicking on their name.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 14-Mar-2022** 
+<h3 align='center'>Reading files for mentor-mentee app</h3>
+- After creating web-page, we are reading the files as we want to fetch the mentees from the mentees table. It creates .py and .html file when we created doctype and it creates row.html and .html file when we give the web view to doctype.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 15-Mar-2022** 
+<h3 align='center'>SQL query for fetching data</h3>
+- Today, we are finding a query to fetch data from tables. We need to fetch mentees name under their respective mentors. Also we need to give reference of web-page to access it.
+- 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-Mar-2022** 
+<h3 align='center'>Searching in Web-page</h3>
+- After fetching data, we are done with the search bar in web-page. It is needed so that we can easily search the mentee or mentor just by entering their name in search bar because there will be a huge list. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
