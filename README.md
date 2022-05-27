@@ -310,7 +310,7 @@ It helps you to effectively manage administration and allows you to focus on wha
 **Date : 15-Mar-2022** 
 <h3 align='center'>SQL query for fetching data</h3>
 - Today, we are finding a query to fetch data from tables. We need to fetch mentees name under their respective mentors. Also we need to give reference of web-page to access it.
-- 
+
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
