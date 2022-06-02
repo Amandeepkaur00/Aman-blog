@@ -352,6 +352,24 @@ For marking attendance of single student we can use student attendance and for b
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 23-Mar-2022** 
+<h3 align='center'>Installing new Erpnext on server</h3>
+First we install frappe framework then install erpnext with education domain.
+
+    After this we are collecting students and teachers data from Nankana Sahib Public School. - Arranging data according to doctype in erpnext.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Mar-2022** 
+<h3 align='center'>Helping others in their tasks</h3>
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
 
 
 
