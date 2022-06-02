@@ -57,7 +57,7 @@
 <h3 align='center'>Introduction to frappe</h3>
 
 <p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
-#### Why Frappe?
+## Why Frappe?
 <p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
 
 - Install Frappe-bench and its required tool. For more info [Click here](https://frappeframework.com/docs/v13/user/en/installation).
@@ -354,9 +354,28 @@ For marking attendance of single student we can use student attendance and for b
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 23-Mar-2022** 
 <h3 align='center'>Installing new Erpnext on server</h3>
-First we install frappe framework then install erpnext with education domain.
+- First we install frappe framework then install erpnext with education domain.
+-  After this we are collecting students and teachers data from Nankana Sahib Public School. - Arranging data according to doctype in erpnext.
+<br>
 
-    After this we are collecting students and teachers data from Nankana Sahib Public School. - Arranging data according to doctype in erpnext.
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Mar-2022** 
+<h3 align='center'>Helping others in their tasks</h3>
+- Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-Mar-2022** 
+<h3 align='center'>Basic setup of education domain</h3>
+- Today I have done the basic setup of education. First I added students then created programs and courses.
+- After that i enrolled the students in their respective programs.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 26-Mar-2022** 
+<h3 align='center'>Student Group</h3>
+- Today, I studied how we can create student groups and add students in their respective groups.
+- It is easy to create student groups by going in student group.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -366,6 +385,36 @@ Today i Was helping others in their tasks. I helped Jaspreet in importing instru
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Mar-2022** 
+<h3 align='center'>Helping others in their tasks</h3>
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Mar-2022** 
+<h3 align='center'>Helping others in their tasks</h3>
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Mar-2022** 
+<h3 align='center'>Helping others in their tasks</h3>
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
