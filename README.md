@@ -320,6 +320,40 @@ It helps you to effectively manage administration and allows you to focus on wha
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 17-Mar-2022** 
+<h3 align='center'>Attendance module in Erpnext</h3>
+- Today, I studied about how to mark attendance in erpnext. There are two methods to mark attendance:- using Student attendance and Student Attendance tool.
+For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 19-Mar-2022** 
+<h3 align='center'>Leave in erpnext</h3>
+- In attendance, only instructors are able to add leave of a student. They have the access to accept/reject it.
+- So, I logged in using an instructor's ID and password, and they can easily add it and can mark the student present/absent based on leave. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 21-Mar-2022** 
+<h3 align='center'>Gunicorn, Socket.io, Scaffhold</h3>
+- Today we got to know three new terms that are used in frappe first is Gunicorn:-Gunicorn is built so many different web servers can interact with it. It - also does not really care what you used to build your web application - as long as it can be interacted with using the WSGI interface.Gunicorn takes care - of everything which happens in-between the web server and your web application.
+
+- Socket.io:-Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server. It is built on top - of the WebSocket protocol and provides additional guarantees like fallback to HTTP long-polling or automatic reconnection.
+
+- Scaffhold:-Scaffolding is a meta-programming method of building database-backed software applications. It is a technique supported by some model-view-- - - controller frameworks, in which the programmer may write a specification that describes how the application database may be used. The compiler uses this - specification to generate code that the application can use to create, read, update and delete database entries, effectively treating the template as a - - "scaffold" on which to build a more powerful application.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 22-Mar-2022** 
+<h3 align='center'>Reading the excellent reports by seniors</h3>
+- Today i was reading the three report that was written by our seniors. 1.The above report is based on the language translator in which a group is trying - - to understand the role of lex and parser. It was really fun to read this report I really enjoyed reading it. The starting of the report, the examples - - - delivered during the presentation, and the question answers during the presentation is really excellent. My favourite part of the report was someone said - "You should say, I don't know java rather than I don't like java" and also the chinese part as this is the best way to start and to gather the attention - of the audience and to . 2.The above report is based on the regular expressions , in the report they have mentioned the struggles of programmers in the - - early times as they did not had the laptops and personal computers. 3.This report "An ancient art of secure communication" is based on the encryption and - decryption It was really interesting to know how encryption was used in the ancient times the example of "shaving the head of employee" for secure - - - - communication was very interesting and the example of kheer and the phrases "Adhi raat da hanera, vich taare hi taare, mere gharo'n oat hoyi." was very - - intersting.
+
+- I really enjoyed reading the above reports.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
 
 
 
