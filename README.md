@@ -379,30 +379,78 @@ For marking attendance of single student we can use student attendance and for b
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 24-Mar-2022** 
-<h3 align='center'>Helping others in their tasks</h3>
-Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+**Date : 28-Mar-2022** 
+<h3 align='center'>Integration of Erpnext with moodle</h3>
+Today sir gave me a task to find a solution to integrate erpnext with moodle.After searching i got to know a new tool by which we can integrate erpnext with moodle.Myddleware for Moodle enables you to transfer your data easily and safely from your Moodle application to other applications such as your e-commerce, CRM or messaging tools. By doing so, it ensures a durable quality of your data, which is a prerequisite for productivity and efficiency. Your company can save time and money on data issues : no more endless IT expenses to ensure a smooth and secure data migration process, no more worrying about lost, out of date or incorrect data. With Myddleware, increase customer satisfaction thanks to a greater data quality.
+
+Myddleware, easily connect Moodle to other applications for more productivity and efficiency :
+
+CRM/ERP : Salesforce, SAP CRM, SugarCRM, SuiteCRM, ERPNext, Hubspot, Cirrus Shield Manage your Moddle courses directly from your CRM and collect information on course completion.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 24-Mar-2022** 
-<h3 align='center'>Helping others in their tasks</h3>
-Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+**Date : 29-Mar-2022** 
+<h3 align='center'>User Permissions</h3>
+Today my task was to only show all the instructor and students only their concerned programs and courses on desk and on lms as well. I was searching for the solutions and also posted my query on discussion forum. And i got one reply for this they said to use user permission for each user and assign them particular programs and courses. After doing this instrcutors and students was able to view only their concerned programs and courses on desk. Also on Lms only the assigned programs and courses was visible to the students but to the instructors all the programs and courses was visible even after giving user permissions and role based permissions.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 24-Mar-2022** 
-<h3 align='center'>Helping others in their tasks</h3>
-Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+**Date : 30-Mar-2022** 
+<h3 align='center'>Arranging the csv file for adding programs</h3>
+Today, I have to add the programs for NSPS. For that, i have arranged a csv file for Classes 1 to 10. Also, we can do it from front end .
+The csv file has 2 fields:- program name and department. Department will be teaching or non-teaching but here it will be teaching.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 24-Mar-2022** 
-<h3 align='center'>Helping others in their tasks</h3>
-Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+**Date : 31-Mar-2022** 
+<h3 align='center'>Reading the files of LMS</h3>
+As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present in erpnext in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 1-April-2022** 
+<h3 align='center'>User Permission</h3>
+After applying the user permission to the instructor for programs and courses instructor is able to see there current programs only. When instructor is trying to access the courses they are able to access it. But when they are trying to access the programs they are getting error/ Notification:- "Not allowed for Course: Math-6 in Row 2. Restricted field: courseUser "abc@gmail.com" (instructor) does not have access to this document
+
+Insufficient Permission for Program Class-6" Now I am trying to understand how to resolve it. Because this error means that to give access to the instructor first we need to to give access of all the courses to the instructor even if they are not teaching all the courses which is unacceptable in technical terms.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 2-April-2022** 
+<h3 align='center'>Arranging csv file for adding Courses </h3>
+Today, I have to arrange the csv file for adding courses for NSPS. Another method to do it is from front end which is very time consuming. It can also be added while adding programs just by adding another field (course) in the file. After preparing, I have imported it in erp.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 3-April-2022** 
+<h3 align='center'>Enrolling courses in programs</h3>
+Today, I have to enrolled the courses in their respective programs. Firstly we need to have list of programs and courses so that we can easily fetch them.
+We can enroll the courses in two methods:- front-end and via csv file. FOr front end , we have to do it manually for each program else we can arrange csv file for the same.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 4-April-2022** 
+<h3 align='center'>Mark Attendence of student by different methods</h3>
+Today i have explored mark attendance based on Student Group, then further there are three options i.e. Group based on: Batch, Course and Activity.
+
+Based on Batch: We can mark attendance of all students of a group based on batch that is section A or section B. Based on Course: Here, we can mark attendance of all students of the group i.e. based on course. Based on Activity: Here, we can mark attendance based on the Activity group. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
