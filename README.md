@@ -478,24 +478,45 @@ Today, my task was to check the flow of instructor. I have to check whether a in
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 12-April-2022** 
-<h3 align='center'>Working as a Instructor role</h3>
-Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+**Date : 13-April-2022** 
+<h3 align='center'>Quiz format</h3>
+Today I was searching that how can we hide the quiz result from the users and show them after some time. For that first I have checked all the quiz related doctypes and related parameters but in these there wasn't any control available for this. Then i checked all the doctypes files in erpnext folder and tried to understand the coding. In these files there isn't any condition available for the result they are showing the result based on a condition if checked question is right then show status pass, result, time taken etc else status fail and result, time taken etc.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 12-April-2022** 
-<h3 align='center'>Working as a Instructor role</h3>
-Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+**Date : 14-April-2022** 
+<h3 align='center'>LDAP users</h3>
+Today, my task was to check how we can add the LDAP users and in the normal users list. Also are they able to login with their email ?
+For that, i have created two users: a LDAP user and a normal user. Then login with their credentials and checked the difference between them.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 12-April-2022** 
-<h3 align='center'>Working as a Instructor role</h3>
-Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+**Date : 15-April-2022** 
+<h3 align='center'>Presentation of Nankana Sahib Public School Project</h3>
+Today we had a meeting with Satinder Sir and a teacher from Nankana Sahib Public School. In today's meetings we all presented what we have done till now. We showed them the whole workflow to add a student. For which first we need to add a student applicant and explained that there are two methods for this one is online by using web form and another is offline after the application is accepted we can enroll them in the programs by single-2 enrollment of every student and by using the program enrollment tool and we showed them the lms interface of student how student is going to access the programs and courses and quizzes.
+
+After student section we showed them the whole working of instructor how instructor can add content like articles, videos and quizzes in lms, mark the attendance of students etc. After Instructor we presented the HR module how to generate payrolls, salary slips, attendance of employees etc.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-April-2022** 
+<h3 align='center'>Understanding the concept of workflow</h3>
+Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions.
+
+Workflow Actions is a single place to manage all the pending actions you can take on Workflows. Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 18-April-2022** 
+<h3 align='center'>Presentation of all the topics</h3>
+Today I gave presentation to all my mates in which i had covered all the topic that i have learnt during training like LMS, Mentor-Mentee erpnext and all the basic topics of education domain like student applicant, programs, courses, instructor, workflow, notifications.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
 
 
 
