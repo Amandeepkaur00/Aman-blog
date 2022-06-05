@@ -361,21 +361,21 @@ For marking attendance of single student we can use student attendance and for b
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 24-Mar-2022** 
 <h3 align='center'>Helping others in their tasks</h3>
-- Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-Mar-2022** 
 <h3 align='center'>Basic setup of education domain</h3>
-- Today I have done the basic setup of education. First I added students then created programs and courses.
-- After that i enrolled the students in their respective programs.
+Today I have done the basic setup of education. First I added students then created programs and courses.
+After that i enrolled the students in their respective programs.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 26-Mar-2022** 
 <h3 align='center'>Student Group</h3>
-- Today, I studied how we can create student groups and add students in their respective groups.
-- It is easy to create student groups by going in student group.
+Today, I studied how we can create student groups and add students in their respective groups.
+It is easy to create student groups by going in student group.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -437,6 +437,101 @@ Based on Batch: We can mark attendance of all students of a group based on batch
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 5-April-2022** 
+<h3 align='center'>Exploring LMS</h3>
+Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 6-April-2022** 
+<h3 align='center'>Fetching data from another doctype in doctype</h3>
+Today I was trying to fetch the fields in the doctype from other doctypes and sehjal also helped me in this we were able to fetch branch name (username) etc. I am not able to do it on my local erpnext as i am getting an error related to supervisor. So, i was trying to solve it and finding a solution for it. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 7-April-2022** 
+<h3 align='center'>Web-page for converting temperature</h3>
+Today, I was given a task to convert the temperature from celsius to fahrenheit. For that, I have to create a web-page through which user can enter the input  in fahrenheit and it will give output in celsius.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 8-April-2022** 
+<h3 align='center'>Web-page for converting temperature</h3>
+Today, I have created a doctype which has fields- Celcius and Fahrenheit, and give it a web-view. Then i have to add the conversion formula in the files. For that I am exploring files.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 9-April-2022** 
+<h3 align='center'>Web-page for converting temperature</h3>
+In the given task, I have to set the conversion formula. There are 2 main files:- .py and .html. For doctype, the formula was working when i write it in .py file, it was converting successfully. For web-page, it wasn't working so i am finding solution for that.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date :11-April-2022** 
+<h3 align='center'>Web-page for converting temperature</h3>
+In the given task, I was exploring files and while reading documentation, I got a solution that for web-page we need to write the conversion formula in .js file. It started working in web-form as well. Next, I have to explored whether it will work it web-forms as well ?
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022** 
+<h3 align='center'>Working as a Instructor role</h3>
+Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022** 
+<h3 align='center'>Working as a Instructor role</h3>
+Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022** 
+<h3 align='center'>Working as a Instructor role</h3>
+Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022** 
+<h3 align='center'>Working as a Instructor role</h3>
+Today, my task was to check the flow of instructor. I have to check whether a instructor is able to mark student attendance or not. Also, the INstructor is able to see only their programs in which they are teaching. Also, they can add contents like quix, articles and topics for students.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
