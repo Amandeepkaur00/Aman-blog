@@ -509,10 +509,86 @@ Workflow Actions is a single place to manage all the pending actions you can tak
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 18-April-2022** 
 <h3 align='center'>Presentation of all the topics</h3>
-Today I gave presentation to all my mates in which i had covered all the topic that i have learnt during training like LMS, Mentor-Mentee erpnext and all the basic topics of education domain like student applicant, programs, courses, instructor, workflow, notifications.
+Today I gave presentation to all my mates in which i had covered all the topic that i have learnt during training like LMS, Mentor-Mentee, erpnext and all the basic topics of education domain like student applicant, programs, courses, instructor, workflow, notifications.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 19-April-2022** 
+<h3 align='center'>Understanding the Workflow</h3>
+Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions. Workflow Actions is a single place to manage all the pending actions you can take on Workflows. Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 21-April-2022** 
+<h3 align='center'>Assignment Rule</h3>
+Today I am exploring Assignment rule. I am exploring that how we can use assignment rule in helpdesk.For assign the issue automatically amongst the employees who work on support, an Assignment Rule can be used. We can define the Assignment rule Select the condition for the assignment. We can write simple Python expressions for automatic assignment in the Assign Rule, Close Rule and Unassign Rule. We will have access to all the properties of the document and can use operators like >, <, ==, etc and also multiple conditions like and and or. status == "Open" issue_type == "Technical" and priority=="High" and status == "Open".
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 22-April-2022** 
+<h3 align='center'>Course Scheduling</h3>
+Today's task was to schedule courses/ time-table for Instructors. It can be done in two methods:- Course schedule and course scheduling tool.
+For creating course scheduling for 1 year then course scheduling is better. Also, we can prepare a csv file but for that we have to create entries manually for a year.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 23-April-2022** 
+<h3 align='center'>Course Scheduling</h3>
+Today, Sir provided us the Time-table of NSPS. So, I was doing course scheduling with Jaspreet. We used course scheduling tool for this task. A instructor will be able to see their scheduled courses in their profile and from course scheduling list.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-April-2022** 
+<h3 align='center'>Exploring Buying in erp</h3>
+Today, i was given with the task of exploring buying module. I am reading the documentation and watching youtube videos to understand its flow. Also working on HR module with kanchan. Understanding how HR will mark attendance of instructors and their salary.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-April-2022** 
+<h3 align='center'>Buying Module</h3>
+In buying, i got to understand some of its concepts that we need to have item list, suppliers list and warehouse list.
+So, firstly we need to add the items, suppliers and warehouses. After that first step would be to create Material Request of the items that we need to buy.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-April-2022** 
+<h3 align='center'>Buying Module</h3>
+In buying, i got to understand some of its concepts that we need to have item list, suppliers list and warehouse list.
+So, firstly we need to add the items, suppliers and warehouses. After that first step would be to create Material Request of the items that we need to buy.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-April-2022** 
+<h3 align='center'>Buying Module</h3>
+In buying, i got to understand some of its concepts that we need to have item list, suppliers list and warehouse list.
+So, firstly we need to add the items, suppliers and warehouses. After that first step would be to create Material Request of the items that we need to buy.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
