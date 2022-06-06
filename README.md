@@ -551,20 +551,121 @@ So, firstly we need to add the items, suppliers and warehouses. After that first
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 25-April-2022** 
+**Date : 26-April-2022** 
 <h3 align='center'>Buying Module</h3>
-In buying, i got to understand some of its concepts that we need to have item list, suppliers list and warehouse list.
-So, firstly we need to add the items, suppliers and warehouses. After that first step would be to create Material Request of the items that we need to buy.
+Today, I have created a order to buy items. The flow for buying module is: First, we need to create material request and a request for quotation will be created and will be sent to the suppliers. Then, suppliers will reply with supplier quotation. Then a purchase order will be created against that material request. After that a payment request and a purchase invoice will be created. In the end, a payment entry will be created.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 25-April-2022** 
-<h3 align='center'>Buying Module</h3>
-In buying, i got to understand some of its concepts that we need to have item list, suppliers list and warehouse list.
-So, firstly we need to add the items, suppliers and warehouses. After that first step would be to create Material Request of the items that we need to buy.
+**Date : 28-April-2022** 
+<h3 align='center'>Presentation of souvenir</h3>
+Today My mates gave presentation to all juniors. They showed us all the requirements, specification and overall workflow of the project and what is the required output. They explained all the problems they have faced till now and also explained it very well.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 29-April-2022** 
+<h3 align='center'>Testing of Souvenir</h3>
+Today, our task was to test the souvenir by filling the form. Also we have to check the validations they have applied.
+So, i checked that by filling the form with 2 different ID's and it was working well.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 30-April-2022** 
+<h3 align='center'>Hierarchy of Nankana Sahib Education Trust</h3>
+Today we have discussed the hierarchy and structure of Nanakana sahib education trust, gndec, nsps. Basic Structure:- First we have a parent company Nankana sahib education trust and under these we have child companies Guru nanak dev engineering college, Nankana sahib public school (21 branches), Guru nanak dev polytechnic college, ITI. Accounts Structure:- First we have a parent company NSET and it has a bank account which will take care of all the accounts of child companies. Under the parent company we have a child company gndec which also has a fee account and a salary account all the tuition fee of students will directly go to the fee bank account , and all the amount of fee bank account will be transferred to the salary account and all the employees will get their salaries from the salary account. All the development fee will be directly transferred to the development account. For the development company will get the amount/fund from the development account. Roles in NSET:- In the nankana sahib education trust we have president , director, managerial staff and under the president we have sub roles for other users, secretary, and trustees. and under the managerial staff we have clerks and accountant. Only the received amounts and all benefits should be visible to the instructor. Only the accounts part should be visible to the director.Clerk is responsible for all the inventories stocks. Clerk2 will be responsible for the hostlers fee.And they should be able to see only their assigned company details. NSET:- In NSET company we have a director role which should have access to all the child companies. All the child companies GNDEC, NSPS have a principal.After that other staff is divided into two sections one is Non-teaching and other is teaching.Under the non-teaching staff we have clerks, accountants, assistants and other staff. Teaching section is further divided into Examination, student section(admissions etc), Establishment, Department. The examination staff will take care of examinations of companies, the student section will take care of the students admissions,fees etc.In the departments we have the role of HOD, section incharge, staff.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 2-May-2022** 
+<h3 align='center'>Hackathon Day-1</h3>
+Roles for Nankana Sahib Education trust :- Director:- Director will have all permissions like fees, salary, accounts , total gain etc but with read only access. Accountant:- will have permissions to see all the account information of trust, nsps, gndec. Accountant will have read, write access to create the fee and salaries of the employee and also can create the fee report and salary report. HR:- HR will have permission to create the users and make them employees, leave allocation, holiday list, salary of employee. Superintendent Roles and flow for Nankana Sahib Public School:- Principal:- Will have only read only access to all the education domain related information and HR related information. Accountants:- 1 For students fee and 1 for salaries of employees. Teaching Incharge:- Will do all the tasks of academic user like course scheduling etc. HR:- will create employees and instructors only for Nankana sahib Public School, leave allocation, salary of employees etc. We need to show all the reports like employees attendance report, salary report, leave report etc to the HR.. Instructors:- will have access to student attendance, quiz, videos, article, Diary, Student list etc. Students:- will have access of only LMS and on lms they will have access of programs, Courses, Quizzes, Videos, Articles, daily diary and attendance. Accountant:- will create the salaries of employees and fees of students, will generate the balance sheet. We need to generate all the reports and graphs for necessary information for each role. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 3-May-2022** 
+<h3 align='center'>Hackathon Day 2</h3>
+Today, We created Director user of NSET, Superintendent of NSET, Principal user of NSPS and HR user of NSPS on erp server and gave them all the required permissions. And same roles are created on gne11.GNE, whose credentials are shared in other mail. You can check that roles with given credentials. Also we learn about Salary Structure and Salary Component of employees. In meeting with Harpreet sir, we learn about PF, Taxes, Funds, Earnings and Deductions etc. We will explore it and implement on gne11.GNE. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 4-May-2022** 
+<h3 align='center'>Notice Board App </h3>
+First we created an app named Gndec_NoticeBoard and installed it on gne11.gndec.ac.in. Then we created a doctype named Gndec_NoticeBoard with field names title,content,attachment, signature etc. As we want that Clerk will create notice and HOD will approve, reject or reassign it. So we created two roles: HOD and Clerk and gave them required permissions for Notices. Then we created a workflow named Notice for Gndec_NoticeBoard. Here we define states like Draft, Approves, Pending etc. and Transition Rules like first Clerk will create a notice, after approved by clerk it will go to HOD then HOD will approve it or reassign it to Clerk. If HOD reassigns it then it will go to Clerk in Draft state, here clerk can edit it and resend it to HOD. If HOD wants to reject it, then first he needs to click on Pending then he can reject it, after rejecting by HOD it will go to the Clerk and the clerk can delete it. Then we test the workflow with different roles and it is working nicely. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 5-May-2022** 
+<h3 align='center'>Creating Presentation in Revel.js</h3>
+Created Presentation for the Whole Project To so that we can present our work to the trusties so with the team we created a presentation which contains all the infomation related to the erp Syatem which deals with the all kind of accounting, maintaing all students,staff and employees and pushed on github. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 6-May-2022** 
+<h3 align='center'>Course Scheduling on gne11</h3>
+In course scheduling, when we are scheduling courses to Instructors of full year using a course scheduling tool, it shows all the entries of the whole year in the course schedule list. These entries will be in thousands. Earlier when we were scheduling courses, we just scheduled two or three courses of whole year, and server was not responding.  
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 8-May-2022** 
+<h3 align='center'>Scheduling Time-Table</h3>
+Today I have tried scheduling Time-Table with some dummy Entries on https://gne11.gndec.ac.in/. If we want to see the Time-table of a particular instructor, then it is available in that instructor's profile and also we can see that from course scheduling list just by entering the instructor's name.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 9-May-2022** 
+<h3 align='center'>Scheduling Time-Table</h3>
+We are creating it using course scheduling tool. In this, we need Room, Time, Day of lecture. And Time of lectures is not given in the TT of NSPS. You may set your own time in this case, set time of lectures between 8 am to 2 pm. And In NSPS, they mark attendance once in a day(In morning by incharge). And the use of doing course scheduling is to mark attendance in every lecture like in our college. So for school, there is no use of course scheduling. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 10-May-2022** 
+<h3 align='center'>Arranging Time Table file</h3>
+Today, After exploring, we thought there is no use of writing script. We think script is useful where we have to do the same things again and again. But in our case, we will have different time-table for different schools, so in script we will have to give input for each TT which is the same thing doing entries one by one. I think csv is more productive than script. So Today I have arranged Time Table csv file. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 11-May-2022** 
+<h3 align='center'>Arranging Time Table file</h3>
+Today, After exploring, we thought there is no use of writing script. We think script is useful where we have to do the same things again and again. But in our case, we will have different time-table for different schools, so in script we will have to give input for each TT which is the same thing doing entries one by one. I think csv is more productive than script. So Today I have arranged Time Table csv file. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 10-May-2022** 
+<h3 align='center'>Arranging Time Table file</h3>
+Today, After exploring, we thought there is no use of writing script. We think script is useful where we have to do the same things again and again. But in our case, we will have different time-table for different schools, so in script we will have to give input for each TT which is the same thing doing entries one by one. I think csv is more productive than script. So Today I have arranged Time Table csv file. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
