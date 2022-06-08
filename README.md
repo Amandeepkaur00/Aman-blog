@@ -672,6 +672,50 @@ Today , We add item in the warehouse, we have to create stock. We have following
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 21-May-2022** 
+<h3 align='center'>Asset module</h3>
+Today I am done with the course scheduling. Now I am exploring the asset module as it was assigned to me the other day. Asset: In ERPNext, We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company. Asset category: Asset Category based on the type of assets. For example, all desktops and laptops can be part of an Asset Category named 'Electronic Equipments'. Types of assets: Assets can be an existing asset which has been bought earlier and it can be a newly purchased item. For new assets, we cannot create the asset record directly from the Asset form. We need to create a Purchase Receipt/Invoice for it. Before creating an asset we need to create an item with 'is fixed asset' and create a purchase receipt against that item. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 22-May-2022** 
+<h3 align='center'>Asset module</h3>
+Asset Reports: Asset Depreciation Ledger This report shows the Purchase Amount, Depreciated Amount and accumulated total depreciation for all the assets under the selected date range. It also shows the current value and current depreciation status of the Asset. Fixed Asset Register Fixed asset register provides a unified view of all the details regarding current status of an asset. A Fixed asset register tracks all the fixed assets that the you have created. This not only includes assets that are currently in your possession, but also tracks those assets that are disposed. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 23-May-2022** 
+<h3 align='center'>HR module in erpnext</h3>
+The Human Resources (HR) module covers the processes related to the HR department of a company. It maintains a complete employee database including contact information, salary details, attendance, performance evaluation, leaves, and appraisal records. The most important feature here is processing the payroll by using Payroll Entry to generate Salary Slips. Most countries have complex tax rules stating which expenses the company can make on behalf of its Employees. There are a set of rules for the company to deduct taxes and social security from employee payroll. ERPNext accommodates all types of taxes and their calculation. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-May-2022** 
+<h3 align='center'>HR module</h3>
+In the HR domain we have Shift Management module.The Shift Management module in ERPNext HR helps us efficiently manage shifts for our employees. Under the shift Management we have Shift type, Shift assignment, shift request .
+
+Shift type:- In the shift type doctype we can create multiple shifts of our company like morning, evening etc. It contains Name of the shift, start time and end time of shift.
+
+Shift Request :- Shift request is used by employees of a company to request for a particular shift.
+
+Shift Assignment:- when the employee requests for a particular shift and when the shift request is approved and submitted then the system will automatically assign shifts to the employees. 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
