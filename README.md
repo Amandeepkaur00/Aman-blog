@@ -139,7 +139,6 @@ time.</p>
 **error while loading shared libraries: libatomic.so.1: cannot open shared object file: No such file or directory**
 - sudo apt purge libatomic1.
 - install houncho  if file is missing.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -153,7 +152,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 **Date : 17-Feb-2022** 
 <h3 align='center'>Introduction to Jinja Templating</h3>
 <p align='justify'>Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.</p>
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -161,7 +159,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Trying to fetch data from database using Jinja Templating</h3>
 - Write a Python Script for establish connection with Mariadb.
 - Still it gives permission error try to solve it.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -169,7 +166,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Working with server</h3>
 - Resetting the password of server.
 - Trying to install Erpnext on server.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -178,14 +174,12 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Today I created a new doctype in erpnext with different options
 - then learned about the administration concept of database
 - Converting pdf file to md and applying changes using markdown.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 22-Feb-2022** 
 <h3 align='center'>Working on ERPNEXT</h3>
 - Today i started working on new platform erpnext it is open source, and low code or no platform.Today i am reading the documentation of erpnext to  understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -193,7 +187,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>How to use ssh</h3>
 - Login to Server, Try to help other member to install ldap on server.
 - Apply different permission related queries on database for different user.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -201,14 +194,12 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Learning about how to import data in erpnext from csv file</h3>
 - Try to import data in erpnext app throught csv file.
 - Apply pagination in erpnext webpage.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-Feb-2022** 
 <h3 align='center'>Learning different modules of education domain</h3>
 - I am learning about the modules of education domain. It has so many different modules like attendance module, assessment module, course scheduling, HR, settings, admission etc.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -216,7 +207,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Creating Web page in ErpNext</h3>
 - Creating Static Webpage on Erpnext.
 - Learning Frappe School Module.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -225,7 +215,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Creating new site with new app.
 - Creating Doctype and linking doctype with other.
 - Learn Jinja Script for frappe doctypes. 
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -233,28 +222,24 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Learning Different modules of Erpnext</h3>
 - Understand the structure of erpnext app.
 - Understand the javascript code and python code of erpnext app.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 4-Mar-2022**
 <h3 align='center'>Meeting app</h3>
 - Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of erpnext.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 5-Mar-2022** 
 <h3 align='center'>Notice Board app</h3>
 - Today we all created a notice board app in erpneext within 30 minutes. It was a wonderful experience as we can created such apps withiin a short time period.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 6-Mar-2022**
 <h3 align='center'>Basic setup for Nankana Sahib Public school</h3>
 - Today I am done with the basic setup of Nankana Sahib Public School. I have created three programs Class 1, Class 2, Class 3 and three instructors for each class , four courses for each class, and 2-2 topics per courses, three room and other basic requirements. I have imported data of 8 students using the data import feature in erpnext and also tried to update the existing record which is working fine without any issue.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -262,7 +247,6 @@ It helps you to effectively manage administration and allows you to focus on wha
 <h3 align='center'>Started working on Mentor-mentee app</h3>
 - Today, I and Sehjal started working on mentor-mentee app. In this, we need to create a list of mentors, a list of their mentees and their relation.
   The requiremnet is to create metors and get their mentees just by clicking on the mentor name. And when we click on any mentee's name it will show all its details.
-  
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -271,8 +255,7 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Today, we have created a doctype named Mentor for mentor's information.
 - In this, we entered mentors and their details.
 - Also add their mentees under each mentor.
-  
-<br>
+ <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 9-Mar-2022** 
@@ -280,37 +263,32 @@ It helps you to effectively manage administration and allows you to focus on wha
 - We have created a doctype named Mentee for mentee's information.
 - In this, we entered mentees and their details.
 - Also add their mentors under each mentee.
-  
-<br>
+ <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 11-Mar-2022** 
 <h3 align='center'>Creating doctypes in mentor-mentee app</h3>
 - Today, we have created a doctype named Relation for mentor and mentee relation.
 - In this, we entered mentees and their mentor details.
-  
-<br>
+  <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 12-Mar-2022** 
 <h3 align='center'>Web-page for mentor-mentee app</h3>
 - After creating doctypes for mentor-mentee app, now we have created a web-page.
 - We need to show mentors and mentees list in web-page and get their information just by clicking on their name.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 14-Mar-2022** 
 <h3 align='center'>Reading files for mentor-mentee app</h3>
 - After creating web-page, we are reading the files as we want to fetch the mentees from the mentees table. It creates .py and .html file when we created doctype and it creates row.html and .html file when we give the web view to doctype.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 15-Mar-2022** 
 <h3 align='center'>SQL query for fetching data</h3>
 - Today, we are finding a query to fetch data from tables. We need to fetch mentees name under their respective mentors. Also we need to give reference of web-page to access it.
-
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -458,6 +436,7 @@ Today, I was given a task to convert the temperature from celsius to fahrenheit.
 **Date : 8-April-2022** 
 <h3 align='center'>Web-page for converting temperature</h3>
 Today, I have created a doctype which has fields- Celcius and Fahrenheit, and give it a web-view. Then i have to add the conversion formula in the files. For that I am exploring files.
+<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 9-April-2022** 
@@ -702,6 +681,24 @@ Shift Assignment:- when the employee requests for a particular shift and when th
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-May-2022** 
+<h3 align='center'></h3>
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 26-May-2022** 
+<h3 align='center'></h3>
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
 
 
 
