@@ -682,17 +682,26 @@ Shift Assignment:- when the employee requests for a particular shift and when th
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-May-2022** 
-<h3 align='center'></h3>
-
+<h3 align='center'>View According to roles in the desk</h3>
+Today Sir has assigned me and kanchan a new task. I am working on what should be visible to a particular role in the desk view. I will also compare the current system (Fee bank) of Nankana Sahib Public School with the erpnext.Today I am reading the files of erpnext and also exploring desk so that we can change the view / sidebar based on the roles.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 26-May-2022** 
-<h3 align='center'></h3>
-
+<h3 align='center'>View According to roles in the desk</h3>
+We were finding a way to generate/ update the view according to the role. We haven't found anything in the files of erpnext and on desk. Sowe have checked all the posts on the communutity related to this for the solution. In the community they are saying currently it is not possible to restrict the modules according to the roles. But we can do this for each user.Means if there is an instructor role and we want to restrict the other modules for instructor role except the education module.This is not possible to do this for role. If there are 10 instructor users then we can do this for each user.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 27-May-2022** 
+<h3 align='center'>Arranging csv file for role-wise permission</h3>
+Today we have created the csv file for every instructor so that we can block all the other modules in the instructor view except education module. We have also implemented it for a single instructor for testing purpose. Only the ducation domain is visible to the instructor.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
 
 
 
