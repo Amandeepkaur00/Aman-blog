@@ -56,7 +56,7 @@
 **Date : 5-Feb-2022**
 <h3 align='center'>Introduction to frappe</h3>
 
-<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
+<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ErpGuru, is pretty generic and can be used to build database driven apps.</p>
 ## Why Frappe?
 <p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
 
@@ -94,7 +94,7 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 10-Feb-2022** 
-<h3 align='center'>Introduction to Docker, Virtual Machine and ERPNext</h3>
+<h3 align='center'>Introduction to Docker, Virtual Machine and ErpGuru</h3>
 
 **What is Docker?**
 <p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up
@@ -109,19 +109,19 @@ time.</p>
 - It can run only a limited number of VMs on a system.
 <br>
 
-**What is ERPNext?**
-<p align="justify">ERPNext is a full-featured business management solution that helps SMEs to record all their business transactions in a single system. With ERPNext, SMEs can make informed, fact-based, timely decisions to remain ahead in the competition. It serves as the backbone of a business adding strength, transparency, and control to your growing enterprise.</p>
+**What is ErpGuru?**
+<p align="justify">ErpGuru is a full-featured business management solution that helps SMEs to record all their business transactions in a single system. With ErpGuru, SMEs can make informed, fact-based, timely decisions to remain ahead in the competition. It serves as the backbone of a business adding strength, transparency, and control to your growing enterprise.</p>
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 11-Feb-2022** 
-<h3 align='center'>Installing ERPNext in Frappe-bench</h3>
+<h3 align='center'>Installing ErpGuru in Frappe-bench</h3>
 
 - If Frappe-bench installed in system follow second method otherwise you will get error.
 - Installion done with two manner 
 - By Adduser in linux
-- And create Erpnext app and site in frappe-bench Diretory.
-- For installation steps [Click here](https://github.com/D-codE-Hub/ERPNext-installation-Guide/blob/main/README.md). 
+- And create ErpGuru app and site in frappe-bench Diretory.
+- For installation steps [Click here](https://github.com/D-codE-Hub/ErpGuru-installation-Guide/blob/main/README.md). 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -143,8 +143,8 @@ time.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 15-Feb-2022** 
-<h3 align='center'>Introduction to Education module in Erpnext</h3>
-<p align="justify">The Education domain in ERPNext is designed to meet requirements of any organization which imparts knowledge and believe in doing so in an organized fashion. It has already been used at schools, colleges and even in private firms.
+<h3 align='center'>Introduction to Education module in ErpGuru</h3>
+<p align="justify">The Education domain in ErpGuru is designed to meet requirements of any organization which imparts knowledge and believe in doing so in an organized fashion. It has already been used at schools, colleges and even in private firms.
 It helps you to effectively manage administration and allows you to focus on what is most important for your institute, to educate!</p>
 <br>
 
@@ -165,21 +165,21 @@ It helps you to effectively manage administration and allows you to focus on wha
 **Date : 19-Feb-2022** 
 <h3 align='center'>Working with server</h3>
 - Resetting the password of server.
-- Trying to install Erpnext on server.
+- Trying to install ErpGuru on server.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 21-Feb-2022** 
 <h3 align='center'>Mysql Administration, Converting pdf to md file</h3>
-- Today I created a new doctype in erpnext with different options
+- Today I created a new doctype in ErpGuru with different options
 - then learned about the administration concept of database
 - Converting pdf file to md and applying changes using markdown.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 22-Feb-2022** 
-<h3 align='center'>Working on ERPNEXT</h3>
-- Today i started working on new platform erpnext it is open source, and low code or no platform.Today i am reading the documentation of erpnext to  understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.
+<h3 align='center'>Working on ErpGuru</h3>
+- Today i started working on new platform ErpGuru it is open source, and low code or no platform.Today i am reading the documentation of ErpGuru to  understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -191,9 +191,9 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 24-Feb-2022** 
-<h3 align='center'>Learning about how to import data in erpnext from csv file</h3>
-- Try to import data in erpnext app throught csv file.
-- Apply pagination in erpnext webpage.
+<h3 align='center'>Learning about how to import data in ErpGuru from csv file</h3>
+- Try to import data in ErpGuru app throught csv file.
+- Apply pagination in ErpGuru webpage.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -204,8 +204,8 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 28-Feb-2022** 
-<h3 align='center'>Creating Web page in ErpNext</h3>
-- Creating Static Webpage on Erpnext.
+<h3 align='center'>Creating Web page in ErpGuru</h3>
+- Creating Static Webpage on ErpGuru.
 - Learning Frappe School Module.
 <br>
 
@@ -219,15 +219,15 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 3-Mar-2022** 
-<h3 align='center'>Learning Different modules of Erpnext</h3>
-- Understand the structure of erpnext app.
-- Understand the javascript code and python code of erpnext app.
+<h3 align='center'>Learning Different modules of ErpGuru</h3>
+- Understand the structure of ErpGuru app.
+- Understand the javascript code and python code of ErpGuru app.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 4-Mar-2022**
 <h3 align='center'>Meeting app</h3>
-- Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of erpnext.
+- Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of ErpGuru.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -239,7 +239,7 @@ It helps you to effectively manage administration and allows you to focus on wha
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 6-Mar-2022**
 <h3 align='center'>Basic setup for Nankana Sahib Public school</h3>
-- Today I am done with the basic setup of Nankana Sahib Public School. I have created three programs Class 1, Class 2, Class 3 and three instructors for each class , four courses for each class, and 2-2 topics per courses, three room and other basic requirements. I have imported data of 8 students using the data import feature in erpnext and also tried to update the existing record which is working fine without any issue.
+- Today I am done with the basic setup of Nankana Sahib Public School. I have created three programs Class 1, Class 2, Class 3 and three instructors for each class , four courses for each class, and 2-2 topics per courses, three room and other basic requirements. I have imported data of 8 students using the data import feature in ErpGuru and also tried to update the existing record which is working fine without any issue.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -299,14 +299,14 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 17-Mar-2022** 
-<h3 align='center'>Attendance module in Erpnext</h3>
-- Today, I studied about how to mark attendance in erpnext. There are two methods to mark attendance:- using Student attendance and Student Attendance tool.
+<h3 align='center'>Attendance module in ErpGuru</h3>
+- Today, I studied about how to mark attendance in ErpGuru. There are two methods to mark attendance:- using Student attendance and Student Attendance tool.
 For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 19-Mar-2022** 
-<h3 align='center'>Leave in erpnext</h3>
+<h3 align='center'>Leave in ErpGuru</h3>
 - In attendance, only instructors are able to add leave of a student. They have the access to accept/reject it.
 - So, I logged in using an instructor's ID and password, and they can easily add it and can mark the student present/absent based on leave. 
 <br>
@@ -331,15 +331,15 @@ For marking attendance of single student we can use student attendance and for b
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 23-Mar-2022** 
-<h3 align='center'>Installing new Erpnext on server</h3>
-- First we install frappe framework then install erpnext with education domain.
--  After this we are collecting students and teachers data from Nankana Sahib Public School. - Arranging data according to doctype in erpnext.
+<h3 align='center'>Installing new ErpGuru on server</h3>
+- First we install frappe framework then install ErpGuru with education domain.
+-  After this we are collecting students and teachers data from Nankana Sahib Public School. - Arranging data according to doctype in ErpGuru.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 24-Mar-2022** 
 <h3 align='center'>Helping others in their tasks</h3>
-Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in erpnext. And was trying to understand their tasks.
+Today i Was helping others in their tasks. I helped Jaspreet in importing instructors as there were some issue we both were trying to resolve it and after investing some time in it it got resolved. After this I helped Sehjal in importing And adding the students in ErpGuru. And was trying to understand their tasks.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -358,12 +358,12 @@ It is easy to create student groups by going in student group.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 28-Mar-2022** 
-<h3 align='center'>Integration of Erpnext with moodle</h3>
-Today sir gave me a task to find a solution to integrate erpnext with moodle.After searching i got to know a new tool by which we can integrate erpnext with moodle.Myddleware for Moodle enables you to transfer your data easily and safely from your Moodle application to other applications such as your e-commerce, CRM or messaging tools. By doing so, it ensures a durable quality of your data, which is a prerequisite for productivity and efficiency. Your company can save time and money on data issues : no more endless IT expenses to ensure a smooth and secure data migration process, no more worrying about lost, out of date or incorrect data. With Myddleware, increase customer satisfaction thanks to a greater data quality.
+<h3 align='center'>Integration of ErpGuru with moodle</h3>
+Today sir gave me a task to find a solution to integrate ErpGuru with moodle.After searching i got to know a new tool by which we can integrate ErpGuru with moodle.Myddleware for Moodle enables you to transfer your data easily and safely from your Moodle application to other applications such as your e-commerce, CRM or messaging tools. By doing so, it ensures a durable quality of your data, which is a prerequisite for productivity and efficiency. Your company can save time and money on data issues : no more endless IT expenses to ensure a smooth and secure data migration process, no more worrying about lost, out of date or incorrect data. With Myddleware, increase customer satisfaction thanks to a greater data quality.
 
 Myddleware, easily connect Moodle to other applications for more productivity and efficiency :
 
-CRM/ERP : Salesforce, SAP CRM, SugarCRM, SuiteCRM, ERPNext, Hubspot, Cirrus Shield Manage your Moddle courses directly from your CRM and collect information on course completion.
+CRM/ERP : Salesforce, SAP CRM, SugarCRM, SuiteCRM, ErpGuru, Hubspot, Cirrus Shield Manage your Moddle courses directly from your CRM and collect information on course completion.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -382,7 +382,7 @@ The csv file has 2 fields:- program name and department. Department will be teac
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 31-Mar-2022** 
 <h3 align='center'>Reading the files of LMS</h3>
-As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present in erpnext in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
+As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present in ErpGuru in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -417,13 +417,13 @@ Based on Batch: We can mark attendance of all students of a group based on batch
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 5-April-2022** 
 <h3 align='center'>Exploring LMS</h3>
-Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show. 
+Today we all have explored learning management system in ErpGuru too "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show. 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 6-April-2022** 
 <h3 align='center'>Fetching data from another doctype in doctype</h3>
-Today I was trying to fetch the fields in the doctype from other doctypes and sehjal also helped me in this we were able to fetch branch name (username) etc. I am not able to do it on my local erpnext as i am getting an error related to supervisor. So, i was trying to solve it and finding a solution for it. 
+Today I was trying to fetch the fields in the doctype from other doctypes and sehjal also helped me in this we were able to fetch branch name (username) etc. I am not able to do it on my local ErpGuru as i am getting an error related to supervisor. So, i was trying to solve it and finding a solution for it. 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -459,7 +459,7 @@ Today, my task was to check the flow of instructor. I have to check whether a in
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 13-April-2022** 
 <h3 align='center'>Quiz format</h3>
-Today I was searching that how can we hide the quiz result from the users and show them after some time. For that first I have checked all the quiz related doctypes and related parameters but in these there wasn't any control available for this. Then i checked all the doctypes files in erpnext folder and tried to understand the coding. In these files there isn't any condition available for the result they are showing the result based on a condition if checked question is right then show status pass, result, time taken etc else status fail and result, time taken etc.
+Today I was searching that how can we hide the quiz result from the users and show them after some time. For that first I have checked all the quiz related doctypes and related parameters but in these there wasn't any control available for this. Then i checked all the doctypes files in ErpGuru folder and tried to understand the coding. In these files there isn't any condition available for the result they are showing the result based on a condition if checked question is right then show status pass, result, time taken etc else status fail and result, time taken etc.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -480,7 +480,7 @@ After student section we showed them the whole working of instructor how instruc
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 16-April-2022** 
 <h3 align='center'>Understanding the concept of workflow</h3>
-Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions.
+Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ErpGuru.Once a Workflow is created, you can take actions on it via Workflow Actions.
 
 Workflow Actions is a single place to manage all the pending actions you can take on Workflows. Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created.
 <br>
@@ -488,13 +488,13 @@ Workflow Actions is a single place to manage all the pending actions you can tak
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 18-April-2022** 
 <h3 align='center'>Presentation of all the topics</h3>
-Today I gave presentation to all my mates in which i had covered all the topic that i have learnt during training like LMS, Mentor-Mentee, erpnext and all the basic topics of education domain like student applicant, programs, courses, instructor, workflow, notifications.
+Today I gave presentation to all my mates in which i had covered all the topic that i have learnt during training like LMS, Mentor-Mentee, ErpGuru and all the basic topics of education domain like student applicant, programs, courses, instructor, workflow, notifications.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 19-April-2022** 
 <h3 align='center'>Understanding the Workflow</h3>
-Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions. Workflow Actions is a single place to manage all the pending actions you can take on Workflows. Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created. 
+Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ErpGuru.Once a Workflow is created, you can take actions on it via Workflow Actions. Workflow Actions is a single place to manage all the pending actions you can take on Workflows. Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created. 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -634,7 +634,7 @@ We can create "Purchase Invoice" ( A Purchase Invoice is a bill you receive from
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 17-May-2022** 
-<h3 align='center'>Stock and Asset module in ERPNext</h3>
+<h3 align='center'>Stock and Asset module in ErpGuru</h3>
 Stock, Buying and Accounting modules are inter linked with each other. It is so complex. We are trying to understand terms like General Ledger, Journal Entry, Purchase Receipt, Depreciation Ledger, Fixed Asset Register etc. Till now, we don't know which type of data is required.
 <br>
 
@@ -653,7 +653,7 @@ Today , We add item in the warehouse, we have to create stock. We have following
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 21-May-2022** 
 <h3 align='center'>Asset module</h3>
-Today I am done with the course scheduling. Now I am exploring the asset module as it was assigned to me the other day. Asset: In ERPNext, We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company. Asset category: Asset Category based on the type of assets. For example, all desktops and laptops can be part of an Asset Category named 'Electronic Equipments'. Types of assets: Assets can be an existing asset which has been bought earlier and it can be a newly purchased item. For new assets, we cannot create the asset record directly from the Asset form. We need to create a Purchase Receipt/Invoice for it. Before creating an asset we need to create an item with 'is fixed asset' and create a purchase receipt against that item. 
+Today I am done with the course scheduling. Now I am exploring the asset module as it was assigned to me the other day. Asset: In ErpGuru, We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company. Asset category: Asset Category based on the type of assets. For example, all desktops and laptops can be part of an Asset Category named 'Electronic Equipments'. Types of assets: Assets can be an existing asset which has been bought earlier and it can be a newly purchased item. For new assets, we cannot create the asset record directly from the Asset form. We need to create a Purchase Receipt/Invoice for it. Before creating an asset we need to create an item with 'is fixed asset' and create a purchase receipt against that item. 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -664,14 +664,14 @@ Asset Reports: Asset Depreciation Ledger This report shows the Purchase Amount, 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 23-May-2022** 
-<h3 align='center'>HR module in erpnext</h3>
-The Human Resources (HR) module covers the processes related to the HR department of a company. It maintains a complete employee database including contact information, salary details, attendance, performance evaluation, leaves, and appraisal records. The most important feature here is processing the payroll by using Payroll Entry to generate Salary Slips. Most countries have complex tax rules stating which expenses the company can make on behalf of its Employees. There are a set of rules for the company to deduct taxes and social security from employee payroll. ERPNext accommodates all types of taxes and their calculation. 
+<h3 align='center'>HR module in ErpGuru</h3>
+The Human Resources (HR) module covers the processes related to the HR department of a company. It maintains a complete employee database including contact information, salary details, attendance, performance evaluation, leaves, and appraisal records. The most important feature here is processing the payroll by using Payroll Entry to generate Salary Slips. Most countries have complex tax rules stating which expenses the company can make on behalf of its Employees. There are a set of rules for the company to deduct taxes and social security from employee payroll. ErpGuru accommodates all types of taxes and their calculation. 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 24-May-2022** 
 <h3 align='center'>HR module</h3>
-In the HR domain we have Shift Management module.The Shift Management module in ERPNext HR helps us efficiently manage shifts for our employees. Under the shift Management we have Shift type, Shift assignment, shift request .
+In the HR domain we have Shift Management module.The Shift Management module in ErpGuru HR helps us efficiently manage shifts for our employees. Under the shift Management we have Shift type, Shift assignment, shift request .
 
 Shift type:- In the shift type doctype we can create multiple shifts of our company like morning, evening etc. It contains Name of the shift, start time and end time of shift.
 
@@ -683,13 +683,13 @@ Shift Assignment:- when the employee requests for a particular shift and when th
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-May-2022** 
 <h3 align='center'>View According to roles in the desk</h3>
-Today Sir has assigned me and kanchan a new task. I am working on what should be visible to a particular role in the desk view. I will also compare the current system (Fee bank) of Nankana Sahib Public School with the erpnext.Today I am reading the files of erpnext and also exploring desk so that we can change the view / sidebar based on the roles.
+Today Sir has assigned me and kanchan a new task. I am working on what should be visible to a particular role in the desk view. I will also compare the current system (Fee bank) of Nankana Sahib Public School with the ErpGuru.Today I am reading the files of ErpGuru and also exploring desk so that we can change the view / sidebar based on the roles.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 26-May-2022** 
 <h3 align='center'>View According to roles in the desk</h3>
-We were finding a way to generate/ update the view according to the role. We haven't found anything in the files of erpnext and on desk. Sowe have checked all the posts on the communutity related to this for the solution. In the community they are saying currently it is not possible to restrict the modules according to the roles. But we can do this for each user.Means if there is an instructor role and we want to restrict the other modules for instructor role except the education module.This is not possible to do this for role. If there are 10 instructor users then we can do this for each user.
+We were finding a way to generate/ update the view according to the role. We haven't found anything in the files of ErpGuru and on desk. Sowe have checked all the posts on the communutity related to this for the solution. In the community they are saying currently it is not possible to restrict the modules according to the roles. But we can do this for each user.Means if there is an instructor role and we want to restrict the other modules for instructor role except the education module.This is not possible to do this for role. If there are 10 instructor users then we can do this for each user.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -750,7 +750,6 @@ A Stock Ledger Report is a detailed record that keeps track of stock movements f
     So we explored about this and create a new webpage. (Go to Website > Webpage then create new webpage)
     Enter Title, Route etc. Select HTML in Content Type.
     <br>
-
 
 
 
