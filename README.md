@@ -699,6 +699,57 @@ Today we have created the csv file for every instructor so that we can block all
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 28-May-2022** 
+<h3 align='center'>Supplier for Stock</h3>
+Suppliers are companies or individuals who provide you with products or services.
+
+    Go to the Supplier list and click on New.
+    Enter a name for the supplier.
+    Select the supplier group.
+    Save.
+    Create New Address and New Contact.
+    In New Contact, if the supplier is already a user of erp then select the user id otherwise enter email id in contact details.
+    Then click on “Invite as User” then email will be sent to this email to set up the password.
+    Supplier will become a user now.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 30-May-2022**
+<h3 align='center'>Stock Reports</h3>
+Quick Stock Balance
+
+    Quick Stock Balance is a tool that can be used to quickly retrieve the current stock balance (quantity) and value of an item, in the specified warehouse, on the specified date.
+    To access, go to Stock > Tool > Quick Stock Balance.
+    Now select warehouse and item. Now we can see the current item quantity in this warehouse.
+    We can also view the Stock Balance report by clicking on 'Stock Balance Report' . It will redirect to the report with the Item and Warehouse filters populated.
+
+Stock Ledger Report
+
+A Stock Ledger Report is a detailed record that keeps track of stock movements for a company. It reflects the quantity and value of stock issued, received, or transferred along with the stock item and its warehouse details. Following are Stock Ledger Report Attributes:
+
+    Incoming Rate: It reflects the actual value of the stock at which it was brought under your inventory. It reflects the same value as entered in the Rate field of the document.
+    Balance Value: It represents the total value of the remainder stock in the inventory. It is the product of Valuation Rate and Balance Quantity of a stock item.
+    Valuation Rate: It is calculated based upon the valuation method selected.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 31-May-2022** 
+<h3 align='center'>Desk Theme</h3>
+    Sir assigned us (Me and Jaspreet) the task to beautify the desk view with bootstrap. So we are exploring about it.
+    We found theme of desk. We install a theme from this url: https://github.com/hashirluv/r
+    After installing this theme, colour of heading, navigation bar etc got changed.
+    Then we tried some other themes also. We tried White Theme, Blue Theme etc.
+    Then we understand the code and css files to change the view of desk. We can change only background colours, text colours, hover text colour etc with some changes in the css files.
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 1-June-2022** 
+<h3 align='center'>Dashboard for ERPGURU</h3>
+    Now we (I and Jaspreet) have to create a new dashboard page according to the rquirement specified by sir.
+    There should be links of Student, Program, Fee, Attendance etc. After clicking, it would ask for login.
+    So we explored about this and create a new webpage. (Go to Website > Webpage then create new webpage)
+    Enter Title, Route etc. Select HTML in Content Type.
+    <br>
 
 
 
